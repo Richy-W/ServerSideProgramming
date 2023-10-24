@@ -1,0 +1,90 @@
+/*-------------------------------------------------------
+Project Name: CS2623
+Author: Richard Wren
+version: 1
+last changed: 10/21/2023
+
+Colors:
+ #333, #ddd, #55d6aa
+
+ Typography:
+    header: Times New Roman, Times, serif
+    body: Franklin Gothic Medium, Arial Narrow, Arial, sans-serif
+
+--------------------------------------------------------*/
+body {
+    text-align: center;
+    background-color: #333;
+    color: #ddd;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+    font-weight: bold;
+    font-size: 5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+/*---------------------
+
+Top Nav
+
+--------------------*/
+
+.topNav {
+    font-weight: bold;
+    background-color: #55d6aa;
+    border-radius: 10px;
+    display: block;
+
+}
+
+.topNav ul {
+    list-style-type: none;
+}
+
+.topNav a {
+    display: block;
+    padding: 5px;
+    text-decoration: none;
+}
+.topNav li {
+    display: inline-block;
+    margin: 10px;
+}
+
+/*---------------------
+
+left Nav
+
+--------------------*/
+
+.leftNav {
+    font-weight: bold;
+    background-color: #55d6aa;
+    border-radius: 5px;
+    display: block;
+    float: left;
+
+}
+
+.leftNav ul {
+    list-style-type: none;
+}
+
+.leftNav a {
+    display: inline;
+    padding: 5px;
+    text-decoration: none;
+}
+.leftNav li {
+    margin: 10px;
+}
+
+
+
+
+footer {
+    font-size: .70em;
+    font-style: italic;
+}
+

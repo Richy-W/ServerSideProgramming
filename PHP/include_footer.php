@@ -1,0 +1,1 @@
+<p>Disclaimer: Oklahoma City Community College does not necessarily endorse he content or the respective links of this webpage.</p>
