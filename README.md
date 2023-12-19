@@ -1,4 +1,4 @@
-# ServerSideProgramming
+# ServerSide Programming
 OCCC SSP class
 
 This class emphasized self-teaching using "Murach's PHP and MySql" 3rd edition.
